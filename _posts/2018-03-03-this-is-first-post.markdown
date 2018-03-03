@@ -2,7 +2,7 @@
 layout:     post
 title:      Tonight's the Night
 date:       2018-03-03 17:31:19
-summary:    And it's going to happen, again and again. It has to happen.
+summary:    Peek into mohitsinha
 categories: intro firstpost
 ---
 
