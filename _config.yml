@@ -28,7 +28,7 @@ enable_anchorjs: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: sinhamohit
+disqus_shortname: mohitsinha-in-blog
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
