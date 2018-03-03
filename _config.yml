@@ -4,7 +4,7 @@ email:       msinha132@gmail.com
 author:      Mohit Sinha
 description: "Mohit Sinha's personal blog!"
 baseurl:     "/blog"
-url:         "http://mohitsinha.in"
+url:         "http://mohit-sinha.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
