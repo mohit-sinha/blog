@@ -14,7 +14,7 @@ Some pictures of me-
 <img src="https://mohit-sinha.github.io/img/img1.jpg" width="400" height="300" />
 <img src="https://mohit-sinha.github.io/img/img2.jpg" width="400" height="300" />
 <img src="https://mohit-sinha.github.io/img/img3.jpg" width="400" height="300" />
-<img src="https://mohit-sinha.github.io/img/img4.jpg" width="400" height="300" />
+<img src="https://mohit-sinha.github.io/img/img4.JPG" width="400" height="300" />
 <img src="https://mohit-sinha.github.io/img/img5.jpg" width="400" height="300" />
 
 You can contact me at msinha132@gmail.com or you can use the social icons on the top of this page.
