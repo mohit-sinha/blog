@@ -28,9 +28,9 @@ I coded the scripts for Raspberry Pi 2. I'll give a brief description of how you
    ```sh
    $ ssh -X pi@10.42.0.1
    ```
-   Replace IP Address with yours, obviously. For password, enter "raspberry". If everything went fine, you will get access to Raspberry    Pi. If you faced any problem, create an issue and I will help you out.
+   Replace IP Address with yours, obviously. For password, enter "raspberry". If everything went fine, you will get access to Raspberry    Pi. If you faced any problem, create an issue [here](https://github.com/mohit-sinha/embedCam) and I will help you out.
   
-4. Go to the directory where you downloaded "main.cpp" and copy it file to rasberry pi, using-
+4. Go to the directory where you downloaded "[main.cpp](https://github.com/mohit-sinha/embedCam/archive/master.zip)" and copy it file to rasberry pi, using-
    ```sh
    $ scp main.cpp pi@10.42.0.1:
    ```
