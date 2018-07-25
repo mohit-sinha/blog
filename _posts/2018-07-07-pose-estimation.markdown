@@ -6,8 +6,9 @@ summary:    second intern project
 categories: intern
 ---
 
-Just because the computer started understanding the text data present all over the internet, gave rise to one of the biggest tech giants, Google. Imagine how cool would it be if computer started understanding human actions! It would make computers so easy to interface with, and also to generate
-![Image]()
+Just because the computer started understanding the text data present all over the internet, gave rise to one of the biggest tech giants, Google. Imagine how cool would it be if computer started understanding human actions! It would make computers so easy to interface with, and also to open another dimension of human-computer interaction.
+
+![Image](https://mohitsinha.in/img/img4)
 
 
 ### Things you need:
