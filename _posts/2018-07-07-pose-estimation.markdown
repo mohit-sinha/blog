@@ -11,14 +11,14 @@ With an aim to make computer understand human actions, we were asked to determin
 
 The project was specifically aimed at detection of poses in sports. This will give us an extra edge to analyse performance and micro-recommendation which is priceless. We set off to do something like this - 
 
-![Image](https://mohitsinha.in/img/img4.png "Pose Estimation")
+![Image](https://mohitsinha.in/img/img4.PNG "Pose Estimation")
 
 
 ### Concept:
 
 The behind-the-curtain hero of this project is Convolutional Neural Network which does the most difficult part for us. I will assume you know basics of Machine Learning if you have made it so far reading this blog. Openpose uses a CNN with 17 layer architecture on well-annotated COCO dataset images. The accuracy of the final model depeds hugely on the kind of annotation that has been done. This is how we can represent the CNN architecture - 
 
-![Image](https://mohitsinha.in/img/img5.png "CNN")
+![Image](https://mohitsinha.in/img/img5.PNG "CNN")
 
 The CNN model, which is trained on these millions of images, gives us two things on forward propagation on new images -
 1. Heatmaps
@@ -26,7 +26,7 @@ The CNN model, which is trained on these millions of images, gives us two things
 
 Take a look at how they look like when you plot them - 
 
-![Image](https://mohitsinha.in/img/img6.png "Heatmaps & PAFs")
+![Image](https://mohitsinha.in/img/img6.PNG "Heatmaps & PAFs")
 
 The pipeline of pose detection can be explained by the following diagram - 
 
@@ -38,11 +38,11 @@ The two important parts of this project are - generating heatmaps and connecting
 ### What we did:
 My job was to build an algorithm which can compare poses between two humans posing. One will be a model, another will be player. I read about an awesome geometric algorithm named Procrustes. What is does is, translate whole of the datapoints of the player to model datapoints, perform affine transformation and scaling, and give you a measure of disparity by root mean squared error. I wrote this using Openpose C++ API. It was working fine as you can see - 
 
-![Image](https://mohitsinha.in/img/img7-1.png "VVS Laxman") ![Image](https://mohitsinha.in/img/img7-2.png "Kabeer")
+![Image](https://mohitsinha.in/img/img7-1.PNG "VVS Laxman") ![Image](https://mohitsinha.in/img/img7-2.PNG "Kabeer")
 
 Apart from that, we also worked on posed detection on thermal images. The aim was to obtain joint fatigue of sportsman. It looked something like this - 
 
-![Image](https://mohitsinha.in/img/img8.png "Thermal Image")
+![Image](https://mohitsinha.in/img/img8.PNG "Thermal Image")
 
 Finally, the whole work was done and we presented our work in front of the Co-founders and they seem to be impressed. It was a wonderful experience to work at such a startup. I will miss Bangalore a lot. This is a picture from the last day of intern.
 
