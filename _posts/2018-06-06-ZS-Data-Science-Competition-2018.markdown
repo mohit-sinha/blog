@@ -8,22 +8,22 @@ categories: competition
 I had just reached campus from home. I have been in 3 different cities in the last 6 days and I just wanted to sleep. A friend of mine told me about a forth-coming competition for final year students and how cool it was. To be honest, I wasn't inclined to go for it. Later, when I was scrolling through our campus' online notice board, I found the link to the competition, it hit my curiosity spot. When I went through their page, I decided to take it.
 
 The problem statement was interestingly different (though I had seen only one competition before this ;-)). We were given following features-
->S_No of a weekly sale
->year
->Month
->week of sale Data
->Product_ID
->Country of sale
->Sale value that week
+- S_No of a weekly sale
+- year
+- Month
+- week of sale Data
+- Product_ID
+- Country of sale
+- Sale value that week
 
 Apart from that, expenses on a product and country was given in a separate file. We were also given data of Holidays in various countries. The weird part was that expense data, and test data was monthwise while the train data was weekwise.
 
 It was immediately obvious that the whole data will have to be in month form. I converted the data and made it consistent. Then I conjoined the expense data. It was important to maintain consistency as well as to fill correct values in correct rows on merging and slicing.
 
 The final train data had only 3 columns-
->Horizon (indicating cumulative month)
->expense
->sale value
+- Horizon (indicating cumulative month)
+- expense
+- sale value
 
 However, I had 11 of these train datasets and 11 test datasets. Finally, it was also needed to concatenate all 11 test datasets into one and submit only that. Phew, it was a mind-wrenching task.
 
