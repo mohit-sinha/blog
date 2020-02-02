@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      EXL - EXtended Leisure
+date:       2020-02-02 02:02:20
+summary:    randomness and destiny of life
+categories: career
+---
+
+If someone says they chill 7 days a week, they are either unemployed or an EXL employee. Yes, that's how it goes there. After a long last semester of college fun and leisure, I was awarded an EXtra Leisure time as an EXL employee. And I don't meean that work is not innovative, or quality of work is bad. It's just that the company has scaled too much too soon. It does not have the machinary to harness their resources fruitfully. No doubt it can't stand the industry standards when it comes to salary.
+
+It was late summer evening and I was on my flight to Delhi. After a long summer break at home, I was ready to face challenges that had to come in my way. The whole summer I did two things, completed mandatory training in Data Analytics and watched Cricket World Cup 2019. It was on the day of finals that I landed in Delhi. I rushed into a cab and reached my hotel, to watch last few overs of the match. Well, the next day was supposed to be my first day of corporate life. I was excited.
+
+And it turns out, no proper instructions were given to us and all of us had our laptops with us. Now, EXL has a very strict policy of data protection in their office and they don't even allow employees bringing pen drives. There is a metal detector every time you enter the premise and you have to pull out every metal piece and show it to the guards. Last time I faced this kind of inspection was when I went to Rashtrapati Bhawan.
+
+So all 100+ new joinees were standing in queue waiting to deposit there laptops at reception. It was the best welcome one could receive. After that, our orientation began. It was succeeded by all of us being assigned to training rooms where a class of "business ethics" was to be held for the next week. It was again a new kind of drag. We were taught how to dress, speak, eat, behave and think in an office environment. That's the kind of conditioning they might give in prison, I thought to myself. After that week, we were divided into groups and were made to work on a project. That was the only task I used my brain in. It was a good problem statement. We had data of stores and their revenue and we were to analyse their forthcoming sales and give them strategy for marketing campaign. I really liked the idea. I was expecting more such kind of tasks when our training is over. Well, after we presented our solution, there was no word on it. They didn't tell us how we performed, who won etc.
+
+Along with all this inside the office, there was another battle going on outside. I was to find a place to stay in a completely new city. And not everyone is supportive when it comes to sharing a roof. However, I finally found a nice place to stay.
+
+In office, they also conducted two hackathons, one of which I came 2nd and in one, I was 1st. They gifted me amazon vouchers and headphone. Then we were told to join our respective teams. I was supposed to work with Products team. Given my resume, leaders from products team had selected me for this role. The first day I went there, I met my colleagues. Very friendly and benevolent, probably the only thing I miss after switching. Oh yes, if you didn't judge that with my writing tone by now, I switched.
+
+Products team deals with innovative products that are proprietary of EXL. So I was not working for any client. I worked on creating a text classifier for different gols such as relevance analysis, sentiment analysis etc. I liked the idea that I was working on, but I didn't like the pace. For anything you need, may it be laptop, access or even softwares, you need to struggle. There is a famous saying, "In EXL, you need to struggle to begin working". This is probably why cafeterias, pool table and table tennis table are occupied all day.
+
+Managers and VP of our team sits in the US office. This is the reason we had an extra length of leisure. Only time we were to report to them was around 7 P.M. when it's around 9.A.M. in New York. And by 9, all of us left office. Our window of interaction was very less. This can be a blissful place for a person wanting to be detached from growth and learning. You will never even see the horizon of your comfort zone. And at that very time, I knew I had to move. I have never been in my comfort zone all my life, maybe that's got into me like a habit now. This habit wanted me to face challenges, move fast, make or break things, and in 2 months, I was being interviewed for American Express.
+
+I really liked my manager and other leaders. And I hoped that they will understand how badly I want to leave this place as soon as possible. But, to my surprise, I was clearly told that I had to serve full two months notice. No matter how much I tried to talk to them about my condition, I was forced to serve it in full. In my non-notice tenure at EXL I worked on 2 tasks, and in two months of notice, I worked on 4.
+
+Anyways, I really enjoyed my time. Frequent outing, spending time in cafeteria. It almost felt like college. I still miss sitting with my teammates in the cafetria, pulling legs and having fun game at parties. This was my time in EXL. In 5 months, I earned many memories and friends.
+
+![Image](http://mohitsinha.in/img/img9.jpg "Team EXL")
+
+Soon, I joined American Express and thus began the chapter of my career I was really seeking for.
+
+Signing off.
