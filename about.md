@@ -7,8 +7,8 @@ tags: about
 
 ![Image](https://mohit-sinha.github.io/img/cover.jpg)
 
-Hey, I am Mohit Sinha. I am from Jabalpur, Madhya Pradesh. I am a 22 years old undergrad at IIT Roorkee. My professional hobby is Machine Learning and programming. I like learning about different civilisations, culture, history and language. I speak English, Hindi and a little Spanish. On some fine days, you can find me humming songs too. I play keyboard and have an ear for good music. I am also a fitness enthusiast and like to hit the gym regularly.
+Hey, I am Mohit Sinha. I am from Jabalpur, Madhya Pradesh. I am a 24 years old analyst at American Express. I graduated from IIT Roorkee in 2019 and now I make strategies for managing credit risk of applicants. This website is a mirror to my personal and professional life. You can find my life experiences in the blog section. If you have anything to say to me, feel free to use the social icons or go to 'Contact' page to write directly to me.
 
-I am an ambivert and I always look forward to feedbacks to improve myself. If you have one, kindly post it on my website.
+I play guitar and humm songs too. I am a keen spirituality enthusiast and fitness conscious.
 
-You can contact me at msinha132@gmail.com or you can use the social icons on the top of this page.
+I am always excited about meeting new people, do let me know if this description makes you want to grab a coffee together ;-)
